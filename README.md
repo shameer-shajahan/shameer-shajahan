@@ -29,16 +29,19 @@
 ```python
 class ShameerShajahan:
     def __init__(self):
-        self.name        = "Shameer Shajahan"
-        self.role        = "Full-Stack Developer"
-        self.location    = "🌴 Kochi, Kerala, India"
-        self.languages   = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks  = ["Django", "Django REST Framework", "Bootstrap"]
-        self.databases   = ["PostgreSQL", "MySQL", "SQLite"]
-        self.tools       = ["Git", "GitHub", "VS Code", "Linux"]
-        self.portfolio   = "https://shameer-shajahan.github.io/portfolio/"
-        self.linkedin    = "https://www.linkedin.com/in/shameershajahan17/"
-        self.passion     = "Building scalable web apps with clean, efficient code 🚀"
+        self.name          = "Shameer Shajahan"
+        self.pronouns      = "He / Him"
+        self.role          = "Python Django Full-Stack Developer"
+        self.location      = "🌴 Alappuzha, Kerala, India"
+        self.languages     = ["Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks    = ["Django", "Django REST Framework", "Bootstrap"]
+        self.databases     = ["PostgreSQL", "MySQL", "SQLite"]
+        self.tools         = ["Git", "GitHub", "VS Code", "Linux"]
+        self.portfolio     = "https://shameer-shajahan.github.io/portfolio/"
+        self.linkedin      = "https://www.linkedin.com/in/shameershajahan17/"
+        self.instagram     = "https://www.instagram.com/_.shameer"
+        self.connections   = "500+ LinkedIn connections | 953 followers"
+        self.passion       = "Building scalable web apps with clean, efficient code 🚀"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something awesome together 🐍")
@@ -117,8 +120,13 @@ me.say_hi()
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-3DDC84?style=for-the-badge&logoColor=white)](https://shameer-shajahan.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shameershajahan17/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_·_500%2B_Connections-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shameershajahan17/)
+[![Instagram](https://img.shields.io/badge/Instagram_·_@_.shameer-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.shameer)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shameer-shajahan)
+
+<br/>
+
+> 📍 Alappuzha, Kerala, India &nbsp;|&nbsp; 🧑‍💻 He / Him &nbsp;|&nbsp; 🤝 953 LinkedIn Followers · 500+ Connections
 
 </div>
 
